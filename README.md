@@ -1,2 +1,2 @@
 # README #
-Added second line as test in branch git_basics_2
+Added second line as a test in branch git_basics_2
